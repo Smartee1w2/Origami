@@ -1,0 +1,38 @@
+body {
+    text-align: center;
+    background-color:aqua;
+}
+
+h1 {
+    font-size: 40px;
+    font-family:cursive;
+    font-weight: 300;
+}
+
+#intro{
+    background-color: rgb(182, 220, 238);
+}
+
+#origami1{
+   background-color:darkturquoise;
+}
+
+#contact_1{
+    background-color:blueviolet;
+}
+#contact_1 h3
+{
+    display: inline;
+}
+#contact_1 a
+{
+    color:cyan;
+    text-shadow: none;
+}
+
+.line {
+    height: 6px;
+    background-color:blanchedalmond;
+    width: 70px;
+    margin: 8px auto;
+}
